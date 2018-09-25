@@ -1,10 +1,12 @@
 # Neighborhood Map React Single Page App
 By Carlota Pearl 
 
-## About
-This single page app uses the Google maps API and the location-based service Foursquare API to list top rated attractions in Orlando, Florida. The page features 6 map markers of roller coastr locations and lists details of each attraction using the Foursquare API. It also includes a search functionality that filters out the markers by query. It is made with responsiveness and accessibility in mind.
+View **[live version here](https://carlotapearl.github.io/react-neighborhood-map/)**.
 
-This app was designed from ground up, utilizing the create-react-app tool.
+## About
+This single page app uses the Google maps API and the location-based service Foursquare API to list top rated attractions in Orlando, Florida. The page features 6 map markers of roller coaster locations and lists details of each attraction using the Foursquare API. It also includes a search functionality that filters out the markers by query. It is made with responsiveness and accessibility in mind.
+
+This app was designed from the ground up, utilizing the create-react-app tool.
 It uses the Google Maps API implemented with the [google-maps-react](https://www.npmjs.com/package/google-maps-react) library.
 
 ## How to Use the App
